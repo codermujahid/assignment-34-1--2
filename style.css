@@ -1,0 +1,138 @@
+ html{
+	 font-size: 10px;
+ }
+ 
+ .header-section {
+
+    background: #f5deb3;
+}
+
+
+.logo a img {
+	padding: 23px 0;
+}
+
+.header-right {}
+.header-right ul {
+	list-style: none;
+	text-align: right;
+	width: 200%;
+    margin-bottom: 0;
+}
+.header-right ul li {
+	display: inline-block;
+	padding: 30px 18px;
+	border-right: 1px solid rgba(255, 255, 255, 0.781);
+
+}
+
+.header-right ul li a{
+    display: block;
+    color: white;
+}
+
+.header-right ul li:hover{
+	background: #000;
+}
+
+
+.slider-section {
+background: url(./px-fun-man-person-2361598-image.jpg) no-repeat center center;
+background-size: cover;
+height: 60vh;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.slideer-content{
+color: #328bbc;
+}
+.slideer-content h5{}
+.slideer-content h6 {
+	font-size: 23px;
+	font-weight: 600;
+	color: #007cff;
+
+
+}
+.slideer-content h5{
+	font-size: 30px;
+	font-weight: 600;
+	color: #007cff;
+}
+.padde {
+	padding: 89px;
+}
+
+.about-img img{
+    
+}
+.about-img {
+	background: #f6f2ef;
+	width: 196px;
+	margin-left: 74px;
+	height: 184px;
+}
+.about-img img {
+	margin: -68px;
+	margin-top: 8px;
+}
+.about-content h5 {
+	font-size: 24px;
+	font-weight: 600;
+}
+.about-content h6 {
+	font-size: 16px;
+	font-weight: 600;
+}
+
+.about-content p {
+	font-size: 12px;
+	line-height: 27px;
+	margin-top: 16px;
+	width: 721px;
+}
+.web-content {
+    border: 2px dotted;
+    border-radius: 50px 0;
+    width: 413px;
+    /* height: 206px; */
+    text-align: center;
+    padding: 37px;
+}
+.web-content span i {
+    border: 1px solid;
+    padding: 12px;
+    font-size: 31px;
+    color: #3196da;
+    border-radius: 18px 0;
+}
+
+.web-content h3 {
+    font-size: 26px;
+    padding: 11px 0;
+}
+
+section.footer-top {
+    background: #fffaf0;
+    padding: 90px 0;
+}
+
+.footer-section{
+    background: #2c3e50;
+}
+.p-icone {
+    text-align: end;
+    padding-top: 12px;
+}
+.pp p{
+    color: white;
+    padding-top: 12px;
+}
+.p-icone a i {
+    padding-left: 16px;
+}
+.p-icone a i:hover{
+        color:red ;
+    }
+ 
